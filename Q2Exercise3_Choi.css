@@ -1,0 +1,23 @@
+img{
+	border-style: solid;
+	border-color: #F0CAA3;
+	float: right;
+}
+h1{
+	font-family: sans-serif;
+}
+ul{
+	font-family: serif;
+}
+body{
+	margin-left: 50px;
+	margin-top: 25px;
+}
+.Div1{
+	background-color: #cfb46b;
+	padding: 10px 50px 10px;
+}
+.Div2{
+	background-color: #E5D9B6;
+	padding: 2px 12px 2px;
+}

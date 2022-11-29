@@ -1,0 +1,23 @@
+.image{
+	height: 300px;
+	border-radius: 50px;
+	padding: 20px;
+}
+.image:hover{
+	opacity: 1;
+}
+body{
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+	margin: 100px;
+}
+h1{
+	text-transform: uppercase;
+	letter-spacing: 12px;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}

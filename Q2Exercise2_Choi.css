@@ -1,0 +1,32 @@
+body{
+	height: 2200px;
+	background: #001A6C; 
+	overflow-x: hidden;
+	text-align: center;
+	font-family: serif;
+}
+
+h1{
+	color: red;
+	text-shadow: 2px 2px #BE5A04;
+}
+
+p{
+	text-align: center;
+	color: white;
+}
+
+span{
+	text-transform: uppercase;
+	text-transform: bold;
+}
+
+div{
+	text-transform: italic;
+	color: white;
+}
+
+footer{
+	text-transform: uppercase;
+	color: #5A3A24;
+}
